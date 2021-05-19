@@ -1,0 +1,521 @@
+Creating principal
+From server: [2] Principal-0: goign to step 1.
+From server: [8] Principal-0: Waiting for school to Start.
+From server: [10] Principal-0: notifying the wakestep 1 monitor.
+From server: [11] Principal-0: school waiting.
+Creating instructors
+Creating students
+From server: [146] Instructor-0: has arrived to school and is ready to teach.
+From server: [154] Instructor-0: Notifying the monitor.
+From server: [154] Instructor-0: ready to teach class.
+From server: [156] Instructor-0: Notifying the monitor.
+From server: [157] Instructor-0: period was 0.
+From server: [157] Instructor-0: is waiting for class to start.
+From server: [190] Instructor-1: has arrived to school and is ready to teach.
+From server: [190] Instructor-1: Notifying the monitor.
+From server: [191] Instructor-1: ready to teach class.
+From server: [193] Instructor-1: Notifying the monitor.
+From server: [193] Instructor-1: period was 0.
+From server: [194] Instructor-1: is waiting for class to start.
+From server: [291] Student-0: woke up and is heading to school.
+From server: [340] Student-1: woke up and is heading to school.
+From server: [465] Student-0: is ready to go to the schoolyard.
+From server: [466] Student-0: adding to count.
+From server: [466] Student-0: entering schoolyard.
+From server: [467] Student-2: woke up and is heading to school.
+From server: [468] Student-0: is waiting for the principal.
+From server: [519] Student-1: is ready to go to the schoolyard.
+From server: [519] Student-1: adding to count.
+From server: [520] Student-1: entering schoolyard.
+From server: [521] Student-1: is waiting for the principal.
+From server: [531] Student-3: woke up and is heading to school.
+From server: [589] Student-4: woke up and is heading to school.
+From server: [603] Student-5: woke up and is heading to school.
+From server: [609] Student-2: is ready to go to the schoolyard.
+From server: [609] Student-2: adding to count.
+From server: [609] Student-2: entering schoolyard.
+From server: [611] Student-2: is waiting for the principal.
+From server: [643] Student-3: is ready to go to the schoolyard.
+From server: [643] Student-3: adding to count.
+From server: [643] Student-3: entering schoolyard.
+From server: [644] Student-3: is waiting for the principal.
+From server: [710] Student-4: is ready to go to the schoolyard.
+From server: [710] Student-4: adding to count.
+From server: [711] Student-4: entering schoolyard.
+From server: [712] Student-7: woke up and is heading to school.
+From server: [712] Student-4: is waiting for the principal.
+From server: [716] Student-6: woke up and is heading to school.
+From server: [803] Student-5: is ready to go to the schoolyard.
+From server: [803] Student-5: adding to count.
+From server: [804] Student-5: entering schoolyard.
+From server: [805] Student-5: is waiting for the principal.
+From server: [830] Student-8: woke up and is heading to school.
+From server: [863] Student-7: is ready to go to the schoolyard.
+From server: [863] Student-7: adding to count.
+From server: [864] Student-7: entering schoolyard.
+From server: [865] Student-7: is waiting for the principal.
+From server: [907] Student-6: is ready to go to the schoolyard.
+From server: [907] Student-6: adding to count.
+From server: [909] Student-6: entering schoolyard.
+From server: [910] Student-6: is waiting for the principal.
+From server: [914] Student-9: woke up and is heading to school.
+From server: [935] Student-10: woke up and is heading to school.
+From server: [975] Student-8: is ready to go to the schoolyard.
+From server: [975] Student-8: adding to count.
+From server: [977] Student-8: entering schoolyard.
+From server: [978] Student-8: is waiting for the principal.
+From server: [993] Student-11: woke up and is heading to school.
+From server: [1021] Student-9: is ready to go to the schoolyard.
+From server: [1021] Student-9: adding to count.
+From server: [1022] Student-9: entering schoolyard.
+From server: [1023] Student-9: is waiting for the principal.
+From server: [1070] Student-12: woke up and is heading to school.
+From server: [1096] Student-10: is ready to go to the schoolyard.
+From server: [1096] Student-10: adding to count.
+From server: [1096] Student-10: entering schoolyard.
+From server: [1098] Student-10: is waiting for the principal.
+From server: [1142] Student-13: woke up and is heading to school.
+From server: [1154] Student-14: woke up and is heading to school.
+From server: [1173] Student-12: is ready to go to the schoolyard.
+From server: [1173] Student-12: adding to count.
+From server: [1174] Student-12: entering schoolyard.
+From server: [1174] Student-12: is waiting for the principal.
+From server: [1175] Student-11: is ready to go to the schoolyard.
+From server: [1178] Student-11: adding to count.
+From server: [1178] Student-11: entering schoolyard.
+From server: [1179] Student-11: is waiting for the principal.
+From server: [1276] Student-16: woke up and is heading to school.
+From server: [1282] Student-13: is ready to go to the schoolyard.
+From server: [1282] Student-13: adding to count.
+From server: [1283] Student-13: entering schoolyard.
+From server: [1286] Student-13: is waiting for the principal.
+From server: [1293] Student-15: woke up and is heading to school.
+From server: [1299] Student-14: is ready to go to the schoolyard.
+From server: [1299] Student-14: adding to count.
+From server: [1300] Student-14: entering schoolyard.
+From server: [1301] Student-14: is waiting for the principal.
+From server: [1377] Student-17: woke up and is heading to school.
+Creating nurse
+From server: [1416] Student-16: is ready to go to the schoolyard.
+From server: [1416] Student-16: adding to count.
+From server: [1417] Student-16: entering schoolyard.
+From server: [1418] Student-16: is waiting for the principal.
+From server: [1422] Student-15: is ready to go to the schoolyard.
+From server: [1422] Student-15: adding to count.
+From server: [1422] Student-15: entering schoolyard.
+From server: [1424] Student-15: is waiting for the principal.
+From server: [1482] Student-18: woke up and is heading to school.
+From server: [1500] Student-19: woke up and is heading to school.
+From server: [1510] Student-17: is ready to go to the schoolyard.
+From server: [1510] Student-17: adding to count.
+From server: [1510] Student-17: principal was notified.
+From server: [1511] Student-17: entering schoolyard.
+From server: [1522] Principal-0: Was notified by a student, and is out of the schoolstarting monitor.
+From server: [1512] Student-17: was let in by the principal.
+From server: [1524] Principal-0: going to step 2.
+From server: [1528] Principal-0: School started going next step.
+From server: [1530] Principal-0: notifying the wakestep 2 monitor.
+From server: [1520] Student-0: notified by principal.
+From server: [1520] Student-1: notified by principal.
+From server: [1521] Student-0: was let in by the principal.
+From server: [1522] Student-1: was let in by the principal.
+From server: [1522] Student-2: notified by principal.
+From server: [1525] Student-3: notified by principal.
+From server: [1525] Student-2: was let in by the principal.
+From server: [1526] Student-3: was let in by the principal.
+From server: [1526] Student-4: notified by principal.
+From server: [1530] Student-5: notified by principal.
+From server: [1530] Student-4: was let in by the principal.
+From server: [1531] Student-5: was let in by the principal.
+From server: [1531] Student-7: notified by principal.
+From server: [1534] Student-6: notified by principal.
+From server: [1534] Student-7: was let in by the principal.
+From server: [1535] Student-6: was let in by the principal.
+From server: [1535] Student-8: was sent home by the principal for forgetting to do the questionare.
+From server: [1540] Student-9: was sent home by the principal for forgetting to do the questionare.
+From server: [1541] Student-10: notified by principal.
+From server: [1543] Student-12: notified by principal.
+From server: [1543] Student-10: was let in by the principal.
+From server: [1544] Student-12: was let in by the principal.
+From server: [1544] Student-11: notified by principal.
+From server: [1547] Student-13: was sent home by the principal for forgetting to do the questionare.
+From server: [1547] Student-11: was let in by the principal.
+From server: [1549] Student-14: was sent home by the principal for forgetting to do the questionare.
+From server: [1551] Student-16: notified by principal.
+From server: [1552] Student-15: notified by principal.
+From server: [1552] Student-16: was let in by the principal.
+From server: [1553] Student-15: was let in by the principal.
+From server: [1553] Student-17: notified by principal.
+From server: [1568] Principal-0: going to step 3.
+From server: [1569] Principal-0: Starting to teach classes.
+From server: [1572] Principal-0: notifying the wakestep 3 monitor.
+From server: [1572] Principal-0: debug printing out of monitor.
+From server: [1572] Principal-0: is waiting for students.
+From server: [1634] Student-3: is being sent to the nurse to be tested for rona.
+From server: [1634] Student-3: notified nurse.
+From server: [1635] Student-3: is waiting for test results.
+From server: [1673] Student-18: is ready to go to the schoolyard.
+From server: [1673] Student-18: was late to school and was sent home early.
+From server: [1694] Student-19: is ready to go to the schoolyard.
+From server: [1694] Student-19: was late to school and was sent home early.
+From server: [288] Nurse-0: has arrived to school and is waiting on students to be tested.
+From server: [289] Nurse-0: is going to the office to test students.
+From server: [289] Nurse-0: has escaped the monitor and is goign to the office.
+From server: [290] Nurse-0: Nurse went to the office.
+From server: [294] Nurse-0: Starting to test students.
+From server: [295] Nurse-0: doing single test.
+From server: [1710] Student-3: Has tested negative for Covid and is being sent back to class.
+From server: [1712] Student-6: is being sent to the nurse to be tested for rona.
+From server: [297] Nurse-0: Waiting for students to be tested.
+From server: [1715] Student-6: notified nurse.
+From server: [1716] Student-6: is waiting for test results.
+From server: [302] Nurse-0: doing single test.
+From server: [1718] Student-6: Has tested negative for Covid and is being sent back to class.
+From server: [305] Nurse-0: Waiting for students to be tested.
+From server: [1735] Student-16: is being sent to the nurse to be tested for rona.
+From server: [1735] Student-16: notified nurse.
+From server: [1735] Student-16: is waiting for test results.
+From server: [321] Nurse-0: doing single test.
+From server: [1738] Student-16: Has tested negative for Covid and is being sent back to class.
+From server: [324] Nurse-0: Waiting for students to be tested.
+From server: [1753] Student-0: Was here.
+From server: [1753] Student-0: ready to go to class.
+From server: [1754] Student-0: is going to ELA.
+From server: [1767] Student-2: Was here.
+From server: [1767] Student-2: ready to go to class.
+From server: [1768] Student-2: is going to ELA.
+From server: [1784] Student-4: Was here.
+From server: [1784] Student-4: ready to go to class.
+From server: [1785] Student-4: is going to ELA.
+From server: [1789] Student-17: Was here.
+From server: [1789] Student-17: ready to go to class.
+From server: [1790] Student-17: is going to ELA.
+From server: [1814] Student-12: Was here.
+From server: [1814] Student-12: ready to go to class.
+From server: [1815] Student-12: is going to math.
+From server: [1825] Student-11: Was here.
+From server: [1825] Student-6: Was here.
+From server: [1825] Student-11: ready to go to class.
+From server: [1826] Student-6: ready to go to class.
+From server: [1826] Student-11: is going to math.
+From server: [1828] Student-6: is going to math.
+From server: [1832] Student-5: Was here.
+From server: [1832] Student-5: ready to go to class.
+From server: [1832] Student-5: is going to math.
+From server: [1833] Student-3: Was here.
+From server: [1835] Student-3: ready to go to class.
+From server: [1835] Student-1: Was here.
+From server: [1836] Student-3: is going to physed.
+From server: [1837] Student-1: ready to go to class.
+From server: [1838] Student-3: is waiting for physEd to start.
+From server: [1841] Student-7: Was here.
+From server: [1840] Student-1: is going to physed.
+From server: [1843] Student-7: ready to go to class.
+From server: [1844] Student-1: is waiting for physEd to start.
+From server: [1846] Student-10: Was here.
+From server: [1845] Student-7: is going to physed.
+From server: [1848] Student-10: ready to go to class.
+From server: [1849] Student-7: is waiting for physEd to start.
+From server: [1850] Student-10: is going to physed.
+From server: [1852] Student-10: is waiting for physEd to start.
+From server: [1873] Student-15: Was here.
+From server: [1873] Student-15: ready to go to class.
+From server: [1875] Student-15: is going to physed.
+From server: [1875] Student-15: is waiting for physEd to start.
+From server: [1886] Student-16: Was here.
+From server: [1886] Student-16: ready to go to class.
+From server: [1887] Student-16: is going to physed.
+From server: [1887] Student-16: notifying principal to start class.
+From server: [1889] Student-16: is waiting for physEd to start.
+From server: [1900] Principal-0: notified the nurse to go home.
+From server: [1903] Principal-0: notifying ela teacher.
+From server: [477] Nurse-0: has tested everyone, and is going home.
+From server: [1893] Student-17: is waiting for ELA to start.
+From server: [1860] Instructor-0: class has started.
+From server: [1904] Principal-0: notifying math teacher.
+From server: [1896] Student-4: is waiting for ELA to start.
+From server: [1898] Student-5: is waiting for math to start.
+From server: [1865] Instructor-1: class has started.
+From server: [1909] Principal-0: Is teaching class for 10 seconds.
+From server: [1900] Student-6: is waiting for math to start.
+From server: [1899] Student-2: is waiting for ELA to start.
+From server: [1904] Student-11: is waiting for math to start.
+From server: [1905] Student-0: is waiting for ELA to start.
+From server: [1906] Student-12: is waiting for math to start.
+From server: [11915] Principal-0: class has ended, taking attendance.
+From server: [11915] Principal-0: class has ended, notifying teachers.
+From server: [11916] Principal-0: notifying ela teacher.
+From server: [11917] Principal-0: notifying math teacher.
+From server: [11873] Instructor-0: class has ended.
+From server: [11874] Instructor-1: class has ended.
+From server: [11876] Instructor-0: waking ela students.
+From server: [11877] Instructor-1: waking math students.
+From server: [11911] Student-4: woke up from ELA.
+From server: [11911] Student-2: woke up from ELA.
+From server: [11913] Student-5: woke up from math.
+From server: [11911] Student-17: woke up from ELA.
+From server: [11911] Student-0: woke up from ELA.
+From server: [11916] Student-17: is on break.
+From server: [11915] Student-2: is on break.
+From server: [11914] Student-5: is on break.
+From server: [11913] Student-4: is on break.
+From server: [11913] Student-6: woke up from math.
+From server: [11913] Student-11: woke up from math.
+From server: [11913] Student-12: woke up from math.
+From server: [11925] Student-11: is on break.
+From server: [11924] Student-6: is on break.
+From server: [11918] Student-0: is on break.
+From server: [11927] Student-12: is on break.
+From server: [12015] Student-16: woke up from physED.
+From server: [12015] Student-7: woke up from physED.
+From server: [12015] Student-1: woke up from physED.
+From server: [12015] Student-10: woke up from physED.
+From server: [12015] Student-15: woke up from physED.
+From server: [12015] Student-3: woke up from physED.
+From server: [12022] Student-15: is on break.
+From server: [12020] Student-10: is on break.
+From server: [12019] Student-1: is on break.
+From server: [12017] Student-7: is on break.
+From server: [12015] Student-16: is on break.
+From server: [12023] Student-3: is on break.
+From server: [12005] Instructor-1: period was 1.
+From server: [12005] Instructor-1: is waiting for class to start.
+From server: [12009] Instructor-0: period was 1.
+From server: [12009] Instructor-0: is waiting for class to start.
+From server: [17026] Principal-0: is waiting for students.
+From server: [17015] Student-0: finished break and is going back to class.
+From server: [17015] Student-17: finished break and is going back to class.
+From server: [17015] Student-16: finished break and is going back to class.
+From server: [17015] Student-11: finished break and is going back to class.
+From server: [17015] Student-10: finished break and is going back to class.
+From server: [17015] Student-7: finished break and is going back to class.
+From server: [17015] Student-3: finished break and is going back to class.
+From server: [17015] Student-1: finished break and is going back to class.
+From server: [17015] Student-15: finished break and is going back to class.
+From server: [17015] Student-2: finished break and is going back to class.
+From server: [17015] Student-5: finished break and is going back to class.
+From server: [17015] Student-6: finished break and is going back to class.
+From server: [17015] Student-12: finished break and is going back to class.
+From server: [17015] Student-4: finished break and is going back to class.
+From server: [17125] Student-0: is going to math.
+From server: [17135] Student-11: is going to ELA.
+From server: [17138] Student-12: is going to ELA.
+From server: [17139] Student-7: is going to ELA.
+From server: [17149] Student-1: is going to math.
+From server: [17173] Student-10: is going to math.
+From server: [17180] Student-2: is going to math.
+From server: [17187] Student-16: is going to physed.
+From server: [17187] Student-16: is waiting for physEd to start.
+From server: [17192] Student-15: is going to physed.
+From server: [17192] Student-15: is waiting for physEd to start.
+From server: [17199] Student-3: is going to physed.
+From server: [17199] Student-3: is waiting for physEd to start.
+From server: [17202] Student-17: is going to physed.
+From server: [17202] Student-17: is waiting for physEd to start.
+From server: [17212] Student-4: is going to physed.
+From server: [17212] Student-4: is waiting for physEd to start.
+From server: [17217] Student-6: is going to physed.
+From server: [17217] Student-6: is waiting for physEd to start.
+From server: [17223] Student-5: is going to physed.
+From server: [17223] Student-5: notifying principal to start class.
+From server: [17223] Student-5: is waiting for physEd to start.
+From server: [17234] Principal-0: notifying ela teacher.
+From server: [17236] Principal-0: notifying math teacher.
+From server: [17225] Student-7: is waiting for ELA to start.
+From server: [17192] Instructor-0: class has started.
+From server: [17228] Student-12: is waiting for ELA to start.
+From server: [17227] Student-2: is waiting for math to start.
+From server: [17194] Instructor-1: class has started.
+From server: [17238] Principal-0: Is teaching class for 10 seconds.
+From server: [17232] Student-10: is waiting for math to start.
+From server: [17230] Student-11: is waiting for ELA to start.
+From server: [17235] Student-1: is waiting for math to start.
+From server: [17238] Student-0: is waiting for math to start.
+From server: [27246] Principal-0: class has ended, taking attendance.
+From server: [27246] Principal-0: class has ended, notifying teachers.
+From server: [27247] Principal-0: notifying ela teacher.
+From server: [27205] Instructor-0: class has ended.
+From server: [27249] Principal-0: notifying math teacher.
+From server: [27206] Instructor-0: waking ela students.
+From server: [27208] Instructor-1: class has ended.
+From server: [27242] Student-12: woke up from ELA.
+From server: [27242] Student-11: woke up from ELA.
+From server: [27242] Student-7: woke up from ELA.
+From server: [27246] Student-11: is on break.
+From server: [27244] Student-12: is on break.
+From server: [27210] Instructor-1: waking math students.
+From server: [27251] Student-10: woke up from math.
+From server: [27247] Student-7: is on break.
+From server: [27251] Student-0: woke up from math.
+From server: [27251] Student-1: woke up from math.
+From server: [27256] Student-0: is on break.
+From server: [27251] Student-2: woke up from math.
+From server: [27253] Student-10: is on break.
+From server: [27254] Student-1: is on break.
+From server: [27257] Student-2: is on break.
+From server: [27324] Instructor-1: period was 2.
+From server: [27324] Instructor-1: is waiting for class to start.
+From server: [27389] Student-16: woke up from physED.
+From server: [27389] Student-15: woke up from physED.
+From server: [27389] Student-3: woke up from physED.
+From server: [27389] Student-6: woke up from physED.
+From server: [27389] Student-17: woke up from physED.
+From server: [27389] Student-4: woke up from physED.
+From server: [27389] Student-5: woke up from physED.
+From server: [27396] Student-4: is on break.
+From server: [27395] Student-17: is on break.
+From server: [27394] Student-6: is on break.
+From server: [27392] Student-3: is on break.
+From server: [27391] Student-15: is on break.
+From server: [27389] Student-16: is on break.
+From server: [27397] Student-5: is on break.
+From server: [27400] Instructor-0: period was 2.
+From server: [27400] Instructor-0: is waiting for class to start.
+From server: [32401] Principal-0: is waiting for students.
+From server: [32390] Student-0: finished break and is going back to class.
+From server: [32390] Student-2: finished break and is going back to class.
+From server: [32390] Student-1: finished break and is going back to class.
+From server: [32390] Student-12: finished break and is going back to class.
+From server: [32390] Student-10: finished break and is going back to class.
+From server: [32390] Student-7: finished break and is going back to class.
+From server: [32390] Student-16: finished break and is going back to class.
+From server: [32390] Student-4: finished break and is going back to class.
+From server: [32390] Student-6: finished break and is going back to class.
+From server: [32390] Student-3: finished break and is going back to class.
+From server: [32390] Student-5: finished break and is going back to class.
+From server: [32390] Student-17: finished break and is going back to class.
+From server: [32390] Student-11: finished break and is going back to class.
+From server: [32390] Student-15: finished break and is going back to class.
+From server: [32510] Student-10: is going to ELA.
+From server: [32518] Student-12: is going to math.
+From server: [32527] Student-6: is going to ELA.
+From server: [32530] Student-5: is going to ELA.
+From server: [32542] Student-17: is going to math.
+From server: [32547] Student-0: is going to physed.
+From server: [32547] Student-0: is waiting for physEd to start.
+From server: [32548] Student-1: is going to physed.
+From server: [32550] Student-1: is waiting for physEd to start.
+From server: [32557] Student-3: is going to physed.
+From server: [32557] Student-3: is waiting for physEd to start.
+From server: [32558] Student-2: is going to physed.
+From server: [32558] Student-2: is waiting for physEd to start.
+From server: [32567] Student-11: is going to physed.
+From server: [32567] Student-11: is waiting for physEd to start.
+From server: [32579] Student-7: is going to physed.
+From server: [32579] Student-7: is waiting for physEd to start.
+From server: [32581] Student-16: is going to physed.
+From server: [32583] Student-16: is waiting for physEd to start.
+From server: [32590] Student-4: is going to physed.
+From server: [32590] Student-4: is waiting for physEd to start.
+From server: [32595] Student-15: is going to physed.
+From server: [32595] Student-15: notifying principal to start class.
+From server: [32595] Student-15: is waiting for physEd to start.
+From server: [32606] Principal-0: notifying ela teacher.
+From server: [32612] Principal-0: notifying math teacher.
+From server: [32568] Instructor-0: class has started.
+From server: [32603] Student-17: is waiting for math to start.
+From server: [32570] Instructor-1: class has started.
+From server: [32601] Student-5: is waiting for ELA to start.
+From server: [32614] Principal-0: Is teaching class for 10 seconds.
+From server: [32606] Student-6: is waiting for ELA to start.
+From server: [32606] Student-12: is waiting for math to start.
+From server: [32608] Student-10: is waiting for ELA to start.
+From server: [42622] Principal-0: class has ended, taking attendance.
+From server: [42622] Principal-0: class has ended, notifying teachers.
+From server: [42623] Principal-0: notifying ela teacher.
+From server: [42624] Principal-0: notifying math teacher.
+From server: [42580] Instructor-0: class has ended.
+From server: [42580] Instructor-1: class has ended.
+From server: [42582] Instructor-0: waking ela students.
+From server: [42617] Student-6: woke up from ELA.
+From server: [42583] Instructor-1: waking math students.
+From server: [42617] Student-5: woke up from ELA.
+From server: [42617] Student-10: woke up from ELA.
+From server: [42620] Student-6: is on break.
+From server: [42618] Student-12: woke up from math.
+From server: [42620] Student-10: is on break.
+From server: [42626] Student-12: is on break.
+From server: [42618] Student-17: woke up from math.
+From server: [42622] Student-5: is on break.
+From server: [42627] Student-17: is on break.
+From server: [42743] Instructor-0: is ready to go home.
+From server: [42743] Instructor-0: Notifying the monitor.
+From server: [42745] Instructor-0: has gone home.
+From server: [42787] Student-15: woke up from physED.
+From server: [42787] Student-1: woke up from physED.
+From server: [42787] Student-2: woke up from physED.
+From server: [42798] Principal-0: Went home.
+From server: [42787] Student-3: woke up from physED.
+From server: [42787] Student-11: woke up from physED.
+From server: [42787] Student-7: woke up from physED.
+From server: [42787] Student-16: woke up from physED.
+From server: [42787] Student-4: woke up from physED.
+From server: [42787] Student-0: woke up from physED.
+From server: [42799] Student-0: is on break.
+From server: [42798] Student-16: is on break.
+From server: [42795] Student-7: is on break.
+From server: [42794] Student-11: is on break.
+From server: [42794] Student-3: is on break.
+From server: [42789] Student-2: is on break.
+From server: [42789] Student-1: is on break.
+From server: [42788] Student-15: is on break.
+From server: [42772] Instructor-1: is ready to go home.
+From server: [42801] Student-4: is on break.
+From server: [42786] Instructor-1: Notifying the monitor.
+From server: [42788] Instructor-1: has gone home.
+From server: [42890] Student-5: went home at the end of the school day.
+From server: [42893] Student-5: Attended math at period 1.
+From server: [42893] Student-5: Attended physEd at period 2.
+From server: [42894] Student-5: Attended ELA at period 3.
+From server: [42944] Student-10: went home at the end of the school day.
+From server: [42944] Student-10: Attended physEd at period 1.
+From server: [42947] Student-10: Attended math at period 2.
+From server: [42947] Student-10: Attended ELA at period 3.
+From server: [42966] Student-17: went home at the end of the school day.
+From server: [42966] Student-17: Attended ELA at period 1.
+From server: [42966] Student-17: Attended physEd at period 2.
+From server: [42967] Student-17: Attended math at period 3.
+From server: [42972] Student-6: went home at the end of the school day.
+From server: [42972] Student-6: Attended math at period 1.
+From server: [42973] Student-6: Attended physEd at period 2.
+From server: [42974] Student-6: Attended ELA at period 3.
+From server: [42981] Student-12: went home at the end of the school day.
+From server: [42981] Student-12: Attended math at period 1.
+From server: [42981] Student-12: Attended ELA at period 2.
+From server: [42982] Student-12: Attended math at period 3.
+From server: [43049] Student-2: went home at the end of the school day.
+From server: [43049] Student-2: Attended ELA at period 1.
+From server: [43052] Student-2: Attended math at period 2.
+From server: [43053] Student-2: Attended physEd at period 3.
+From server: [43079] Student-0: went home at the end of the school day.
+From server: [43079] Student-0: Attended ELA at period 1.
+From server: [43080] Student-0: Attended math at period 2.
+From server: [43081] Student-0: Attended physEd at period 3.
+From server: [43085] Student-16: went home at the end of the school day.
+From server: [43085] Student-16: Attended physEd at period 1.
+From server: [43086] Student-16: Attended physEd at period 2.
+From server: [43088] Student-16: Attended physEd at period 3.
+From server: [43089] Student-7: went home at the end of the school day.
+From server: [43090] Student-7: Attended physEd at period 1.
+From server: [43091] Student-7: Attended ELA at period 2.
+From server: [43092] Student-7: Attended physEd at period 3.
+From server: [43100] Student-1: went home at the end of the school day.
+From server: [43100] Student-1: Attended physEd at period 1.
+From server: [43101] Student-1: Attended math at period 2.
+From server: [43102] Student-1: Attended physEd at period 3.
+From server: [43103] Student-11: went home at the end of the school day.
+From server: [43105] Student-11: Attended math at period 1.
+From server: [43106] Student-3: went home at the end of the school day.
+From server: [43106] Student-11: Attended ELA at period 2.
+From server: [43108] Student-3: Attended physEd at period 1.
+From server: [43109] Student-11: Attended physEd at period 3.
+From server: [43110] Student-3: Attended physEd at period 2.
+From server: [43112] Student-3: Attended physEd at period 3.
+From server: [43122] Student-4: went home at the end of the school day.
+From server: [43122] Student-4: Attended ELA at period 1.
+From server: [43123] Student-4: Attended physEd at period 2.
+From server: [43124] Student-4: Attended physEd at period 3.
+From server: [43148] Student-15: went home at the end of the school day.
+From server: [43148] Student-15: Attended physEd at period 1.
+From server: [43149] Student-15: Attended physEd at period 2.
+From server: [43152] Student-15: Attended physEd at period 3.
